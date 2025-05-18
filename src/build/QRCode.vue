@@ -13,7 +13,7 @@ export default {
 	name: 'QR КОД',
 	data() {
 		return {
-			url: 'https://github.com/fllopperr', // ссылка на ресурс куда нужно перейти
+			url: 'https://github.com/MajestY999', // ссылка на ресурс куда нужно перейти
 		}
 	},
 	mounted() {
